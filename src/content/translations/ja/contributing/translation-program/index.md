@@ -57,7 +57,7 @@ Ethereum コミュニティはグローバルで包括的であることを目�
 
    バージョンの低いものから順にサイトに更新されていきますので、まずはバージョンの低いものから翻訳していただき、徐々にバージョンを上げていってください(v.2.0 → v.2.1 → v.2.2 → ⋯)。
 
-   [ethereum.org コンテンツのバージョンについてはこちらをご覧ください。](/contributing/translation-program/content-versions/)
+   [ethereum.org コンテンツのバージョンについてはこちらをご覧ください。](/contributing/translation-program/content-buckets/)
 
 3. **翻訳**  
    翻訳したいファイルを選択すると、オンラインエディターが開きます。 Crowdin を使ったことがない方は、このクイックガイドで基本的なことを確認してください。
